@@ -43,6 +43,8 @@ jobs:
           GH_ORGS: Viora-Software
           GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
           TOP_N: '7'
+          EXCLUDE_REPOS: ${{ secrets.EXCLUDE_REPOS }}
+          EXCLUDE_LANGS: smarty,go template
           OUT: profile/top-langs.svg
         run: python3 scripts/generate_top_langs.py
 
