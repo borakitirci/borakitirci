@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" alt="Blue and navy gradient banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:1D4ED8,100:38BDF8&height=120&section=header" />
+<img width="100%" alt="Orange gradient banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0E06,50:FF6B1A,100:FFB070&height=120&section=header" />
 
 <h1>
   <img src="https://api.iconify.design/lucide/code-xml.svg?color=%2360A5FA" width="32" height="32" alt="Code icon" />
@@ -15,7 +15,11 @@
   <a href="https://github.com/borakitirci">
     <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-borakitirci-172033?style=flat-square&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/borakitirci">
+    <img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
   <img alt="Focus: SaaS and backend development" src="https://img.shields.io/badge/Focus-SaaS%20%26%20Backend-2563EB?style=flat-square" />
+  <img alt="Currently building Viorasoft" src="https://img.shields.io/badge/Building-Viorasoft-FF6B1A?style=flat-square" />
 </p>
 
 </div>
@@ -36,6 +40,40 @@ I enjoy turning complex business requirements into reliable, maintainable softwa
 <br />
 
 <h2>
+  <img src="https://api.iconify.design/lucide/briefcase.svg?color=%2360A5FA" width="21" height="21" alt="" />
+  What I do
+</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/server.svg?color=%2360A5FA" width="18" height="18" alt="" />
+      <strong>Backend & APIs</strong><br />
+      <sub>REST APIs and business logic with ASP.NET Core, NestJS, Node.js, Go and Laravel.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/database.svg?color=%2360A5FA" width="18" height="18" alt="" />
+      <strong>Database architecture</strong><br />
+      <sub>Schema design and data access with PostgreSQL, MySQL, Entity Framework Core and Prisma.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%2360A5FA" width="18" height="18" alt="" />
+      <strong>Frontend applications</strong><br />
+      <sub>Responsive interfaces and dashboards with React, Next.js, Blazor and Tailwind CSS.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/rocket.svg?color=%2360A5FA" width="18" height="18" alt="" />
+      <strong>SaaS products</strong><br />
+      <sub>From initial architecture to deployment with Docker, Linux, Nginx and Cloudflare.</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h2>
   <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2360A5FA" width="21" height="21" alt="" />
   Education
 </h2>
@@ -51,44 +89,17 @@ I enjoy turning complex business requirements into reliable, maintainable softwa
 
 <div align="center">
 
-  <h3>Languages</h3>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="./profile/tech-languages.svg" alt="Programming languages: TypeScript, JavaScript, C#, Python, Go and PHP" width="400" />
+  <img src="./profile/tech-frontend.svg" alt="Frontend technologies: React, Next.js, Blazor, HTML5, CSS3 and Tailwind CSS" width="400" />
 
-  <h3>Frontend</h3>
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <br />
 
-  <h3>Backend</h3>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="./profile/tech-backend.svg" alt="Backend and databases: .NET, ASP.NET Core, Go, NestJS, Node.js, Express.js, Laravel, PostgreSQL, MySQL, Supabase, Entity Framework Core and Prisma" width="400" />
+  <img src="./profile/tech-tools.svg" alt="Tools and infrastructure: Git, GitHub, Docker, Linux, Nginx, Cloudflare, VS Code and Visual Studio" width="400" />
 
-  <h3>Database & ORM</h3>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <br />
 
-  <h3>Tools & Infrastructure</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <sub>Also working with Firebase.</sub>
 
 </div>
 
@@ -101,7 +112,8 @@ I enjoy turning complex business requirements into reliable, maintainable softwa
 
 <h3>Viorasoft</h3>
 
-<img alt="In development" src="https://img.shields.io/badge/Status-In_Development-2563EB?style=flat-square" />
+<img alt="Status: in development" src="https://img.shields.io/badge/Status-In_Development-FF6B1A?style=flat-square" />
+<img alt="Type: SaaS platform" src="https://img.shields.io/badge/Type-SaaS_Platform-172033?style=flat-square" />
 
 A business-focused SaaS platform designed to simplify business workflows, including customer management, offers, orders, payments, and subscription-based features.
 
@@ -123,13 +135,13 @@ Developing practical tools and web applications to help businesses organize oper
 </h2>
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="Bora's GitHub activity and statistics" width="440" />
-  <img src="./profile/top-langs.svg" alt="Most used languages detected in GitHub repositories" width="440" />
+  <img src="./profile/stats.svg" alt="Bora's GitHub activity and statistics" width="400" />
+  <img src="./profile/top-langs.svg" alt="Most used languages detected in GitHub repositories" width="400" />
 </div>
 
 <br />
 
-────────
+<hr />
 
 <div align="center">
   <img src="https://api.iconify.design/lucide/link.svg?color=%2360A5FA" width="19" height="19" alt="" />
@@ -138,10 +150,9 @@ Developing practical tools and web applications to help businesses organize oper
   <a href="https://github.com/borakitirci">
     <img alt="GitHub: borakitirci" src="https://img.shields.io/badge/borakitirci-View_GitHub_Profile-172033?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <br /><br />
   <a href="https://www.linkedin.com/in/borakitirci">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-<img width="100%" alt="Blue and navy gradient footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:1D4ED8,100:38BDF8&height=120&section=footer" />
+<img width="100%" alt="Orange gradient footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0E06,50:FF6B1A,100:FFB070&height=120&section=footer" />
