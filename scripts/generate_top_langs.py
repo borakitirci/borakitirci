@@ -96,7 +96,9 @@ def main():
             continue
         owner = r["owner"]["login"]
         counted[owner] = counted.get(owner, 0) + 1
-        for lang, size in get(r["languages_url"]).items():
+        langs = get(r["languages_url"])
+        print(full, sorted(langs.items(), key=lambda kv: kv[1], reverse=True)[:3])
+        for lang, size in langs.items():
             if lang.lower() not in EXCLUDE_LANGS:
                 totals[lang] = totals.get(lang, 0) + size
     top = sorted(totals.items(), key=lambda kv: kv[1], reverse=True)[:TOP_N]
