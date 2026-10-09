@@ -1,26 +1,12 @@
 <div align="center">
 
-<img width="100%" alt="Black to orange gradient banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:FF6B1A&height=120&section=header" />
-
-<h1>
-  <img src="https://api.iconify.design/lucide/code-xml.svg?color=%23FF6B1A" width="32" height="32" alt="Code icon" />
-  Hi, I'm Bora
-</h1>
-
-<strong>Full Stack Developer · SaaS Builder · Product Developer</strong>
-
-<p>Building practical software and SaaS products for real-world business needs.</p>
+<img width="100%" alt="Black to orange gradient banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:FF6B1A&height=160&section=header&text=Hi%2C%20I'm%20Bora&fontColor=FAFAFA&fontSize=46&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20Product%20Developer&descSize=16&descAlignY=60" />
 
 <p>
-  <a href="https://github.com/borakitirci">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-borakitirci-111111?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/borakitirci">
-    <img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <img alt="Focus: SaaS and backend development" src="https://img.shields.io/badge/Focus-SaaS%20%26%20Backend-FF6B1A?style=flat-square" />
-  <img alt="Currently building Viorasoft" src="https://img.shields.io/badge/Building-Viorasoft-111111?style=flat-square" />
+  <a href="https://github.com/borakitirci"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-borakitirci-111111?style=flat-square&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/borakitirci"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/viorasoft"><img alt="Founder of Viorasoft" src="https://img.shields.io/badge/Founder-Viorasoft-FF6B1A?style=flat-square" /></a> <img alt="Focus: SaaS and backend development" src="https://img.shields.io/badge/Focus-SaaS%20%26%20Backend-111111?style=flat-square" /> <img alt="Currently building Viorasoft" src="https://img.shields.io/badge/Building-Viorasoft-FF6B1A?style=flat-square" />
 </p>
+
+<strong>Building practical software and SaaS products for real-world business needs.</strong>
 
 </div>
 
@@ -33,7 +19,7 @@
 
 I'm a full stack developer and SaaS builder focused on creating practical, scalable software products.
 
-I work across backend development, REST APIs, database architecture, and frontend applications. I'm currently building **Viorasoft**, a SaaS platform focused on business management and digital workflows.
+I work across backend development, REST APIs, database architecture, and frontend applications. I'm the founder of [**Viorasoft**](https://github.com/viorasoft) and I'm currently building **Viorasoft**, a SaaS platform focused on business management and digital workflows.
 
 I enjoy turning complex business requirements into reliable, maintainable software, from initial architecture to implementation.
 
@@ -74,11 +60,34 @@ I enjoy turning complex business requirements into reliable, maintainable softwa
 <br />
 
 <h2>
-  <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23FF6B1A" width="21" height="21" alt="" />
-  Education
+  <img src="https://api.iconify.design/lucide/compass.svg?color=%23FF6B1A" width="21" height="21" alt="" />
+  How I build
 </h2>
 
-**Computer Programming** · Graduated in 2024
+<table>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/target.svg?color=%23FF6B1A" width="26" height="26" alt="" /><br />
+      <strong>Practical first</strong><br />
+      <sub>Every feature solves a real business problem.</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/blocks.svg?color=%23FF6B1A" width="26" height="26" alt="" /><br />
+      <strong>Clean architecture</strong><br />
+      <sub>Structured so products can grow without rewrites.</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/shield-check.svg?color=%23FF6B1A" width="26" height="26" alt="" /><br />
+      <strong>Reliable</strong><br />
+      <sub>Maintainable code that stays dependable in production.</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/zap.svg?color=%23FF6B1A" width="26" height="26" alt="" /><br />
+      <strong>Fast delivery</strong><br />
+      <sub>From idea to deployment, end to end.</sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -110,22 +119,35 @@ I enjoy turning complex business requirements into reliable, maintainable softwa
   Selected projects
 </h2>
 
-<h3>Viorasoft</h3>
-
-<img alt="Status: in development" src="https://img.shields.io/badge/Status-In_Development-FF6B1A?style=flat-square" />
-<img alt="Type: SaaS platform" src="https://img.shields.io/badge/Type-SaaS_Platform-111111?style=flat-square" />
-
-A business-focused SaaS platform designed to simplify business workflows, including customer management, offers, orders, payments, and subscription-based features.
-
-<sub>C# · ASP.NET Core · Blazor · PostgreSQL · Entity Framework Core · Next.js</sub>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/rocket.svg?color=%23FF6B1A" width="18" height="18" alt="" />
+      <strong>Viorasoft</strong><br />
+      <img alt="Status: in development" src="https://img.shields.io/badge/Status-In_Development-FF6B1A?style=flat-square" />
+      <img alt="Type: SaaS platform" src="https://img.shields.io/badge/Type-SaaS_Platform-111111?style=flat-square" /><br />
+      <sub>A business-focused SaaS platform designed to simplify business workflows, including customer management, offers, orders, payments, and subscription-based features.</sub><br /><br />
+      <sub><code>C#</code> · <code>ASP.NET Core</code> · <code>Blazor</code> · <code>PostgreSQL</code> · <code>EF Core</code> · <code>Next.js</code></sub><br />
+      <sub>Built under <a href="https://github.com/viorasoft">Viorasoft</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%23FF6B1A" width="18" height="18" alt="" />
+      <strong>Business Management Systems</strong><br />
+      <img alt="Type: web applications" src="https://img.shields.io/badge/Type-Web_Applications-111111?style=flat-square" /><br />
+      <sub>Practical tools and web applications that help businesses organize operations, manage information, and simplify everyday workflows.</sub><br /><br />
+      <sub><code>REST APIs</code> · <code>Database Design</code> · <code>Web Development</code> · <code>Automation</code></sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
-<h3>Business Management Systems</h3>
+<h2>
+  <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23FF6B1A" width="21" height="21" alt="" />
+  Education
+</h2>
 
-Developing practical tools and web applications to help businesses organize operations, manage information, and simplify everyday workflows.
-
-<sub>REST APIs · Database Design · Web Development · Automation</sub>
+**Computer Programming** · Graduated in 2024
 
 <br />
 
@@ -147,12 +169,9 @@ Developing practical tools and web applications to help businesses organize oper
   <img src="https://api.iconify.design/lucide/link.svg?color=%23FF6B1A" width="19" height="19" alt="" />
   <strong>Connect</strong>
   <br /><br />
-  <a href="https://github.com/borakitirci">
-    <img alt="GitHub: borakitirci" src="https://img.shields.io/badge/borakitirci-View_GitHub_Profile-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/borakitirci">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://github.com/borakitirci"><img alt="GitHub: borakitirci" src="https://img.shields.io/badge/BORAKİTİRCİ-View_GitHub_Profile-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/borakitirci"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/viorasoft"><img alt="Viorasoft organization" src="https://img.shields.io/badge/VİORASOFT-View_Organization-FF6B1A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
-<img width="100%" alt="Black to orange gradient footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:FF6B1A&height=120&section=footer" />
+<img width="100%" alt="Black to orange gradient footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:FF6B1A&height=100&section=footer" />
