@@ -40,7 +40,7 @@ jobs:
       - name: Generate programming languages (user + organizations)
         env:
           GH_USER: ${{ github.repository_owner }}
-          GH_ORGS: Viora-Software
+          GH_ORGS: viorasoft
           GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
           TOP_N: '7'
           EXCLUDE_REPOS: ${{ secrets.EXCLUDE_REPOS }}
