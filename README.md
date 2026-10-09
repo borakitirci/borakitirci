@@ -117,14 +117,6 @@ Developing practical tools and web applications to help businesses organize oper
 
 <br />
 
-<h3>AI-Assisted Business Tools</h3>
-
-Exploring tools for business discovery, website analysis, and tailored digital service proposals.
-
-<sub>AI Integrations · Web Analysis · Automation</sub>
-
-<br />
-
 <h2>
   <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%2360A5FA" width="21" height="21" alt="" />
   GitHub statistics
